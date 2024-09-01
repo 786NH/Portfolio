@@ -191,4 +191,9 @@ footer {
     color: #f5a623;
     margin-right: 10px;
 }
-
+@media (max-width: 350px) {
+    nav {
+        gap: 300px;
+        background-color: red;
+    }
+}
